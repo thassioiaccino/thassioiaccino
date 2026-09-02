@@ -36,7 +36,7 @@ Meu principal repositório de portfólio reúne **cases profissionais anonimizad
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thassio-iaccino/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thassioiaccino)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thassioiaccino/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991839595)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991839595?text=Ol%C3%A1%21%20Vim%20pelo%20seu%20reposit%C3%B3rio%20no%20GitHub%20e%20gostei%20bastante%20do%20seu%20trabalho.)
 
 ---
 
