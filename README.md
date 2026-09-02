@@ -5,16 +5,16 @@
 
 Profissional com mais de 10 anos de experiência em operações, dados, processos e sistemas críticos, atuando na ponte entre negócio e tecnologia.
 
-Atualmente estou ampliando minha atuação para Cloud, DevOps e Platform Engineering, com foco em AWS, Linux, Git/GitHub, Docker, Terraform, CI/CD e Kubernetes.
+Atualmente estou ampliando minha atuação para **Cloud, DevOps e Platform Engineering**, com foco em AWS, Linux, Git/GitHub, Docker, Terraform, CI/CD e Kubernetes.
 
 ## 🚀 Minha jornada
 
 - 💼 Product Owner e Analista de Requisitos
-- 🧩 Experiência com sistemas críticos e integrações
-- 🗄️ Oracle SQL e análise de dados
-- 🔎 Troubleshooting e investigação de incidentes
+- 🧩 Experiência com sistemas críticos, regras de negócio e integrações
+- 🗄️ Oracle SQL, análise de dados e troubleshooting
+- 🔎 Investigação de incidentes e validação funcional
 - 🔄 Modernização de sistemas legados
-- ☁️ Em evolução para Cloud, DevOps e Platform Engineering
+- ☁️ Evolução prática para Cloud, DevOps e Platform Engineering
 
 ## 🧰 Tecnologias e conhecimentos
 
@@ -27,16 +27,16 @@ Atualmente estou ampliando minha atuação para Cloud, DevOps e Platform Enginee
 
 ## 📂 Engineering Portfolio
 
-Meu principal repositório de portfólio reúne cases profissionais anonimizados e projetos práticos de Cloud/DevOps:
+Meu principal repositório de portfólio reúne **cases profissionais anonimizados** e **projetos práticos de Cloud/DevOps**, conectando minha experiência atual à evolução para engenharia de infraestrutura e plataformas.
 
-[![Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-cloud--journey-2ea44f?style=for-the-badge&logo=github)](https://github.com/thassioiaccino/cloud-journey)
+[![Engineering Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-cloud--journey-2ea44f?style=for-the-badge&logo=github)](https://github.com/thassioiaccino/cloud-journey)
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thassio-iaccino/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thassioiaccino)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_WHATSAPP)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thassioiaccino/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991839595)
 
 ---
 
