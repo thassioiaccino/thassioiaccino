@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Thassio Iaccino 👋
 
-<!--
-**thassioiaccino/thassioiaccino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Owner | Requirements Engineering | Oracle SQL | Critical Systems
+### Cloud • DevOps • Platform Engineering 🚀
 
-Here are some ideas to get you started:
+Profissional com mais de 10 anos de experiência em operações, dados, processos e sistemas críticos, atuando na ponte entre negócio e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou ampliando minha atuação para Cloud, DevOps e Platform Engineering, com foco em AWS, Linux, Git/GitHub, Docker, Terraform, CI/CD e Kubernetes.
+
+## 🚀 Minha jornada
+
+- 💼 Product Owner e Analista de Requisitos
+- 🧩 Experiência com sistemas críticos e integrações
+- 🗄️ Oracle SQL e análise de dados
+- 🔎 Troubleshooting e investigação de incidentes
+- 🔄 Modernização de sistemas legados
+- ☁️ Em evolução para Cloud, DevOps e Platform Engineering
+
+## 🧰 Tecnologias e conhecimentos
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+
+## 📂 Engineering Portfolio
+
+Meu principal repositório de portfólio reúne cases profissionais anonimizados e projetos práticos de Cloud/DevOps:
+
+[![Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-cloud--journey-2ea44f?style=for-the-badge&logo=github)](https://github.com/thassioiaccino/cloud-journey)
+
+## 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thassioiaccino)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_WHATSAPP)
+
+---
+
+> Construindo conhecimento com prática, documentação e projetos reais.
