@@ -5,7 +5,7 @@
 
 Profissional com mais de 10 anos de experiência em operações, dados, processos e sistemas críticos, atuando na ponte entre negócio e tecnologia.
 
-Atualmente estou ampliando minha atuação para **Cloud, DevOps e Platform Engineering**, com foco em AWS, Linux, Git/GitHub, Docker, Terraform, CI/CD e Kubernetes.
+Atualmente estou ampliando minha atuação para **Cloud, DevOps e Platform Engineering**, construindo uma trilha prática que parte de AWS, Linux e Git/GitHub e avança para automação, containers, infraestrutura como código, CI/CD e orquestração.
 
 ## 🚀 Minha jornada
 
@@ -25,11 +25,11 @@ Atualmente estou ampliando minha atuação para **Cloud, DevOps e Platform Engin
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 
-## 📂 Engineering Portfolio
+## 📂 Professional Case Studies
 
-Meu principal repositório de portfólio reúne **cases profissionais anonimizados** e **projetos práticos de Cloud/DevOps**, conectando minha experiência atual à evolução para engenharia de infraestrutura e plataformas.
+Cases profissionais **reais, anonimizados e abstraídos**, demonstrando minha atuação em Requirements Engineering, Oracle SQL, incidentes de produção e modernização de sistemas críticos.
 
-[![Engineering Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-cloud--journey-2ea44f?style=for-the-badge&logo=github)](https://github.com/thassioiaccino/cloud-journey)
+[![Professional Case Studies](https://img.shields.io/badge/Professional%20Case%20Studies-View%20Portfolio-2ea44f?style=for-the-badge&logo=github)](https://github.com/thassioiaccino/professional-case-studies)
 
 ## 🔗 Conecte-se comigo
 
@@ -40,4 +40,4 @@ Meu principal repositório de portfólio reúne **cases profissionais anonimizad
 
 ---
 
-> Construindo conhecimento com prática, documentação e projetos reais.
+> Experiência profissional documentada com responsabilidade. Evolução técnica construída com prática.
