@@ -16,6 +16,14 @@ Atualmente estou ampliando minha atuação para **Cloud, DevOps e Platform Engin
 - 🔄 Modernização de sistemas legados
 - ☁️ Evolução prática para Cloud, DevOps e Platform Engineering
 
+## 🎓 Formação acadêmica
+
+- **Graduação tecnológica (Tecnólogo) em Investigação Forense e Perícia Criminal** — conclusão aproximada: 2020.
+- **Pós-graduação em Inteligência Artificial e Análise de Dados** — ano de conclusão não informado.
+- **MBA em Gestão de Projetos** — ano de conclusão não informado.
+
+📁 [Documentação acadêmica e certificados](certificados/README.md) — espaço reservado para adicionar os comprovantes posteriormente.
+
 ## 🧰 Tecnologias e conhecimentos
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
